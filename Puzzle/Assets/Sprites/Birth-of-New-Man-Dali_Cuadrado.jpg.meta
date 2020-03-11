@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: 1f60b131509dd9147b55412a1e6f2cf7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Birth-of-New-Man-Dali_Cuadrado_0
+    21300002: Birth-of-New-Man-Dali_Cuadrado_1
+    21300004: Birth-of-New-Man-Dali_Cuadrado_2
+    21300006: Birth-of-New-Man-Dali_Cuadrado_3
+    21300008: Birth-of-New-Man-Dali_Cuadrado_4
+    21300010: Birth-of-New-Man-Dali_Cuadrado_5
+    21300012: Birth-of-New-Man-Dali_Cuadrado_6
+    21300014: Birth-of-New-Man-Dali_Cuadrado_7
+    21300016: Birth-of-New-Man-Dali_Cuadrado_8
+    21300018: Birth-of-New-Man-Dali_Cuadrado_9
+    21300020: Birth-of-New-Man-Dali_Cuadrado_10
+    21300022: Birth-of-New-Man-Dali_Cuadrado_11
+    21300024: Birth-of-New-Man-Dali_Cuadrado_12
+    21300026: Birth-of-New-Man-Dali_Cuadrado_13
+    21300028: Birth-of-New-Man-Dali_Cuadrado_14
+    21300030: Birth-of-New-Man-Dali_Cuadrado_15
+    21300032: Birth-of-New-Man-Dali_Cuadrado_16
+    21300034: Birth-of-New-Man-Dali_Cuadrado_17
+    21300036: Birth-of-New-Man-Dali_Cuadrado_18
+    21300038: Birth-of-New-Man-Dali_Cuadrado_19
+    21300040: Birth-of-New-Man-Dali_Cuadrado_20
+    21300042: Birth-of-New-Man-Dali_Cuadrado_21
+    21300044: Birth-of-New-Man-Dali_Cuadrado_22
+    21300046: Birth-of-New-Man-Dali_Cuadrado_23
+    21300048: Birth-of-New-Man-Dali_Cuadrado_24
+    21300050: Birth-of-New-Man-Dali_Cuadrado_25
+    21300052: Birth-of-New-Man-Dali_Cuadrado_26
+    21300054: Birth-of-New-Man-Dali_Cuadrado_27
+    21300056: Birth-of-New-Man-Dali_Cuadrado_28
+    21300058: Birth-of-New-Man-Dali_Cuadrado_29
+    21300060: Birth-of-New-Man-Dali_Cuadrado_30
+    21300062: Birth-of-New-Man-Dali_Cuadrado_31
+    21300064: Birth-of-New-Man-Dali_Cuadrado_32
+    21300066: Birth-of-New-Man-Dali_Cuadrado_33
+    21300068: Birth-of-New-Man-Dali_Cuadrado_34
+    21300070: Birth-of-New-Man-Dali_Cuadrado_35
+    21300072: Birth-of-New-Man-Dali_Cuadrado_36
+    21300074: Birth-of-New-Man-Dali_Cuadrado_37
+    21300076: Birth-of-New-Man-Dali_Cuadrado_38
+    21300078: Birth-of-New-Man-Dali_Cuadrado_39
+    21300080: Birth-of-New-Man-Dali_Cuadrado_40
+    21300082: Birth-of-New-Man-Dali_Cuadrado_41
+    21300084: Birth-of-New-Man-Dali_Cuadrado_42
+    21300086: Birth-of-New-Man-Dali_Cuadrado_43
+    21300088: Birth-of-New-Man-Dali_Cuadrado_44
+    21300090: Birth-of-New-Man-Dali_Cuadrado_45
+    21300092: Birth-of-New-Man-Dali_Cuadrado_46
+    21300094: Birth-of-New-Man-Dali_Cuadrado_47
+    21300096: Birth-of-New-Man-Dali_Cuadrado_48
+    21300098: Birth-of-New-Man-Dali_Cuadrado_49
+    21300100: Birth-of-New-Man-Dali_Cuadrado_50
+    21300102: Birth-of-New-Man-Dali_Cuadrado_51
+    21300104: Birth-of-New-Man-Dali_Cuadrado_52
+    21300106: Birth-of-New-Man-Dali_Cuadrado_53
+    21300108: Birth-of-New-Man-Dali_Cuadrado_54
+    21300110: Birth-of-New-Man-Dali_Cuadrado_55
+    21300112: Birth-of-New-Man-Dali_Cuadrado_56
+    21300114: Birth-of-New-Man-Dali_Cuadrado_57
+    21300116: Birth-of-New-Man-Dali_Cuadrado_58
+    21300118: Birth-of-New-Man-Dali_Cuadrado_59
+    21300120: Birth-of-New-Man-Dali_Cuadrado_60
+    21300122: Birth-of-New-Man-Dali_Cuadrado_61
+    21300124: Birth-of-New-Man-Dali_Cuadrado_62
+    21300126: Birth-of-New-Man-Dali_Cuadrado_63
+    21300128: Birth-of-New-Man-Dali_Cuadrado_64
+    21300130: Birth-of-New-Man-Dali_Cuadrado_65
+    21300132: Birth-of-New-Man-Dali_Cuadrado_66
+    21300134: Birth-of-New-Man-Dali_Cuadrado_67
+    21300136: Birth-of-New-Man-Dali_Cuadrado_68
+    21300138: Birth-of-New-Man-Dali_Cuadrado_69
+    21300140: Birth-of-New-Man-Dali_Cuadrado_70
+    21300142: Birth-of-New-Man-Dali_Cuadrado_71
+    21300144: Birth-of-New-Man-Dali_Cuadrado_72
+    21300146: Birth-of-New-Man-Dali_Cuadrado_73
+    21300148: Birth-of-New-Man-Dali_Cuadrado_74
+    21300150: Birth-of-New-Man-Dali_Cuadrado_75
+    21300152: Birth-of-New-Man-Dali_Cuadrado_76
+    21300154: Birth-of-New-Man-Dali_Cuadrado_77
+    21300156: Birth-of-New-Man-Dali_Cuadrado_78
+    21300158: Birth-of-New-Man-Dali_Cuadrado_79
+    21300160: Birth-of-New-Man-Dali_Cuadrado_80
+    21300162: Birth-of-New-Man-Dali_Cuadrado_81
+    21300164: Birth-of-New-Man-Dali_Cuadrado_82
+    21300166: Birth-of-New-Man-Dali_Cuadrado_83
+    21300168: Birth-of-New-Man-Dali_Cuadrado_84
+    21300170: Birth-of-New-Man-Dali_Cuadrado_85
+    21300172: Birth-of-New-Man-Dali_Cuadrado_86
+    21300174: Birth-of-New-Man-Dali_Cuadrado_87
+    21300176: Birth-of-New-Man-Dali_Cuadrado_88
+    21300178: Birth-of-New-Man-Dali_Cuadrado_89
+    21300180: Birth-of-New-Man-Dali_Cuadrado_90
+    21300182: Birth-of-New-Man-Dali_Cuadrado_91
+    21300184: Birth-of-New-Man-Dali_Cuadrado_92
+    21300186: Birth-of-New-Man-Dali_Cuadrado_93
+    21300188: Birth-of-New-Man-Dali_Cuadrado_94
+    21300190: Birth-of-New-Man-Dali_Cuadrado_95
+    21300192: Birth-of-New-Man-Dali_Cuadrado_96
+    21300194: Birth-of-New-Man-Dali_Cuadrado_97
+    21300196: Birth-of-New-Man-Dali_Cuadrado_98
+    21300198: Birth-of-New-Man-Dali_Cuadrado_99
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55.2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ce006389eaf564382c5b60787fbe73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256c21c5fe1295b4dbb6d6ac6cfe7a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5441c10de0ff44facc823630c37ac1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f67f1f7f73a4d647a6d9801526e4215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89054c1206254a944842cdf3a657d9f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b8109f1b295f545a9132b11a1c4153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda43682be06504d9de82383e1047bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e24fd039e12b45a17e8c79acb5295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3162439e4443234d8db70ae1629c1ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 496.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068cc4238af8e44448d92fc12150067b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f2502c84d7334a9b079aa7df35e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e995494081dd5e945a044e32d6ceb347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e3f68e0c108e4d82b625c7cc65ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7575bf419d267d4fa67ce8dcb2231de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601902d1f4f7035499120d35d7246b56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c02d641cbc7a94bb1d3a2d84e216b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be180f324b9f3546b3882a3dea72869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b92c8b4ce8a66748ab7fc8895e6d05a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ad97765c514b47bd869feb6522480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 441.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc1f9fe3bb95d84b9c4c085af6c7126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457bd892ce76dd4796524d5d34f565b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e5d8d49abde34699ef3062c58c647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c4b0b5a95a7db47b65e9d5d95b656a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf436ba237da96439cd3d2006f2f62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6d11e104722dc4489d435c91736b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582453f7bb74d3041a9ddb6589e5a8a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ccb7f4849d9a2469f8b2478216a2ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285c598b9a5d99c45a2c5953bb84cf78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb06858519e43644b9795730c688e1b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 386.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5549f75ea8705cf498fd663981cd3bd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9291d42a47119c24ebbd49e637ef3505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678a2cd7d47ea5c4dac109b8c7b6bdfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96731e62508b85241bec6be104c097f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8f8749e498ffe43aedc660292e9107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a125eb3caff5c459250b8f9d69e5c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c591587dd38580647bee1be34d47019e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef43327bd5684dc44a835c8bf30968bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb88a8dea3b814b8c0b1a848e83d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa54f118bda3ef41b8786940e101027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_39
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 331.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a4181b5ac9d3479674663247b8758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad82d99139b4b4f87b13fa32821b29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31f205b7586df441aaf185df9713864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4089d6ab71bc294da760f1ae6c23447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e6fb6c8caad764aa908c77040f8b76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_44
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5770d7882d5544b9bf91dfd3eaa891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c84173b19f1b0948b929ab1a7aa6666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caffb2a582376934d9a0e67975bcbcde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae950cc8b5f4ca243a81963f1aef50a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_48
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4502892bf3ce3794ba4fedc88f75851b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_49
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 276.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3456e608ce7a4147bd0e0d8423c3c49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0115e75f3d4d2149bd745be2fb754db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047a5592774b75343aedc867cf828653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_52
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3bbcda32ffeeb40abdccc7a2ac70bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf5725fb46564c4d9190ab9791a3f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_54
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d169f7bf86f2044e88d7ccfa458b57b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4278f6ab2c467f47828a0a5f29a4c76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_56
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a481f00f92c4344997cdc3bd60d37d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653e0a06db03d9469997ba2537a5a76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a0c7f9a31cd946b2f286129a61064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_59
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 221.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b97f99f64f8414999e2f3a617b3c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20df2449004505d4a949b489d662208a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50d7ad5878c82842bf7d4cb4b545ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf616ee3244f0440820a768b6a7069b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ae4782bac982f4f9f33df9f1dbb0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e19d1b8af2df804eb728c3ad5521739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585bc7eba14a15a4ba9bef6dcd789aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8abf6c15e5614c8323fb6788e589d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59e6eb11b27ffa45b81cbc8552f8d27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806cdd4dd8546ef478ab8e7b58bcb012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 166.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a9cb63c5722484e91dee84b831fb6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a891cabc9f4bc842b2fd35182cb7876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6228e64280c3364eb50de3ac48d8e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a090e703fbdc22b4dab3ebccd435d9a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_73
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32885c75609227741bd42ba7df323fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_74
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87864f77f103a8448a85ec9514ad1e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_75
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da461b0f4a403f4391ca7bc6cf3ae60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff97581d88f3ae4194c1a2212ab0968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_77
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd4ebfa455609c42b31339778d5bc42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16b2118fc975834c8e2ac825db5ab7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_79
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 111.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ed2c0246c990e4fa3ac1e111659242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687fa4d58aea454a82d975e5f3b6302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_81
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428c345d70697940a35075a55740375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_82
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c28f80499785de4c9cf17b43d8d6c1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5925d0935ebb94ca852077c505fd9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_84
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ad48324458df42a197a9ce34d566b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b6c2e14c772c94c90b175cdb3e6a1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_86
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a4199add8ef24b8dac1bcd80a9667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c16d22f9407d47408a3b22a5b235834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_88
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f622244663c4c6c4faa35f74628cb6de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_89
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 56.8
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83fb2cb10a34894b90dd1403308597b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67352db427c7838498447fb0d927652d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_91
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c977c9b01c44d48884e94925147457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_92
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07188c6629ce2d345bfe018f912e2ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64693d88d7c19e4ba941feb5554cf80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_94
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f8ec1e76fb7649be686de1aa423f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_95
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbd5d2cde615894fa38dd6017f0047e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_96
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc1d4966631ec94a862d8809b6a2f96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_97
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde7d80871fab5d4d98583409f704b10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_98
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217b2422ebc797e4cb60cc9210197c60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birth-of-New-Man-Dali_Cuadrado_99
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1.7999992
+        width: 55.2
+        height: 55.2
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c77bd8843b7c074db2ca91c2eb5f029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

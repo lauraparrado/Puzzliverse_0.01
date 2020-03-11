@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 2a5f8d929671bb84bb0a063f64698b7b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jerrythemouse_1000x1000_0
+    21300002: Jerrythemouse_1000x1000_1
+    21300004: Jerrythemouse_1000x1000_2
+    21300006: Jerrythemouse_1000x1000_3
+    21300008: Jerrythemouse_1000x1000_4
+    21300010: Jerrythemouse_1000x1000_5
+    21300012: Jerrythemouse_1000x1000_6
+    21300014: Jerrythemouse_1000x1000_7
+    21300016: Jerrythemouse_1000x1000_8
+    21300018: Jerrythemouse_1000x1000_9
+    21300020: Jerrythemouse_1000x1000_10
+    21300022: Jerrythemouse_1000x1000_11
+    21300024: Jerrythemouse_1000x1000_12
+    21300026: Jerrythemouse_1000x1000_13
+    21300028: Jerrythemouse_1000x1000_14
+    21300030: Jerrythemouse_1000x1000_15
+    21300032: Jerrythemouse_1000x1000_16
+    21300034: Jerrythemouse_1000x1000_17
+    21300036: Jerrythemouse_1000x1000_18
+    21300038: Jerrythemouse_1000x1000_19
+    21300040: Jerrythemouse_1000x1000_20
+    21300042: Jerrythemouse_1000x1000_21
+    21300044: Jerrythemouse_1000x1000_22
+    21300046: Jerrythemouse_1000x1000_23
+    21300048: Jerrythemouse_1000x1000_24
+    21300050: Jerry_16_0
+    21300052: Jerry_16_1
+    21300054: Jerry_16_2
+    21300056: Jerry_16_3
+    21300058: Jerry_16_4
+    21300060: Jerry_16_5
+    21300062: Jerry_16_6
+    21300064: Jerry_16_7
+    21300066: Jerry_16_8
+    21300068: Jerry_16_9
+    21300070: Jerry_16_10
+    21300072: Jerry_16_11
+    21300074: Jerry_16_12
+    21300076: Jerry_16_13
+    21300078: Jerry_16_14
+    21300080: Jerry_16_15
+    21300082: Jerry_4_0
+    21300084: Jerry_4_1
+    21300086: Jerry_4_2
+    21300088: Jerry_4_3
+    21300090: Jerry_9_0
+    21300092: Jerry_9_1
+    21300094: Jerry_9_2
+    21300096: Jerry_9_3
+    21300098: Jerry_9_4
+    21300100: Jerry_9_5
+    21300102: Jerry_9_6
+    21300104: Jerry_9_7
+    21300106: Jerry_9_8
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 333.33
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jerry_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96a4133b4c0bda4097f1ec2f592a225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerry_9_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 666.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a4e807b2a50514d84169d813cb600c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerry_9_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 666.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366830cda3b77142992b6f2ed096f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerry_9_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333.66666
+        width: 333.33334
+        height: 333.33334
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509068fe9ebe57a4a82588500cb76d1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerry_9_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 333.66666
+        width: 333.33334
+        height: 333.33334
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964a59d7816c69848baa8e8db59d7115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerry_9_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 333.66666
+        width: 333.33334
+        height: 333.33334
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6cb3a1358f4fe4f95fe09c8b4f8120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerry_9_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 333.33334
+        height: 333.33334
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae4ac75a17e789499c929ced453aeab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerry_9_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0.6666565
+        width: 333.33334
+        height: 333.33334
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee2dec287101c41bd4f7fc57db11ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerry_9_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0.6666565
+        width: 333.33334
+        height: 333.33334
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288d60246d00ef74e969c04ee8ae8e6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
